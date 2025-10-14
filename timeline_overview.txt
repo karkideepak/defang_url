@@ -1,0 +1,8 @@
+Phase I: 
+The initial phase of this project involves the development of a lightweight graphical user interface (GUI) tool designed to assist users in safely handling potentially malicious URLs. The tool will enable users to input a URL, which will then be automatically processed to generate a defanged version. 
+
+Defanging involves modifying the URL to prevent accidental clicks or execution, typically by replacing characters such as . with [.] and http with hxxp.
+
+Once defanged, the sanitized URL will be displayed within the interface, allowing users to easily copy and use it for secure reporting or analysis purposes.
+
+Phase II: coming soon ...
