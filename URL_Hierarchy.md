@@ -13,3 +13,5 @@ In this hierarchy:
 /about/team is a subpage of the about page.
 /blog is a section dedicated to blog posts.
 /blog/post-1 and /blog/post-2 are individual blog posts within the blog section.
+
+https://github.com/karkideepak/defang_url/blob/main/images/url_struc.png
